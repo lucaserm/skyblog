@@ -1,4 +1,4 @@
-import { concat, List, shuffle } from "lodash";
+import { concat, shuffle } from "lodash";
 
 export const categories = [
   {
